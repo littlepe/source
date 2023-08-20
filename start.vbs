@@ -1,2 +1,2 @@
 Set WshShell = WScript.CreateObject("WScript.Shell")
-WshShell.Run "a.exe", 0, False
+WshShell.Run "C:\AtHomeVideoStreamer\AtHomevideostreamer.exe", 0, False
